@@ -1,0 +1,24 @@
+A	165	211	206 Aqua	
+B	23	23	25 Black	
+C	161	110	67 Camel	
+D	67	72	97 Denim	
+E	225	202	170 Ecru	
+F	90	73	61 Café au Lait
+G	102	122	51 Grass	
+I	173	206	168 Mint	
+J	91	124	108 Jade	
+K	238	142	160 Pink	
+L	183	89	102 Lilac	
+M	106	33	62 Magenta	
+N	47	47	76 Navy	
+O	192	85	55 Tangerine	
+P	100	73	113 Purple	
+Q	198	128	47 Goldenrod	
+R	161	38	42 Red	
+S	150	155	171 Sky	
+T	160	145	123 Taupe	
+U	123	173	69 Succulent	
+W	235	235	235 White	
+X	139	140	145 Silver	
+Y	234	210	124 Lemon	
+Z	180	80	128 Rose	
