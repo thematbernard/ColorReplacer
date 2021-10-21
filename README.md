@@ -5,3 +5,4 @@ and then print out the image now recolored to the closest colors.
 *This project was the final project in the first module of my accelerated program*
 
 This program is run and compiled in a command terminal.
+What isn't provided, and you will need to import to run, is a .ppm file of your choosing.
